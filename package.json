@@ -4,7 +4,10 @@
   "type": "module",
   "devDependencies": {
     "@edgedb/generate": "^0.4.1",
-    "@types/bun": "latest"
+    "@types/bun": "latest",
+    "@types/node": "^20.11.27",
+    "tsx": "^4.7.1",
+    "typescript": "^5.4.2"
   },
   "peerDependencies": {
     "typescript": "^5.0.0"
