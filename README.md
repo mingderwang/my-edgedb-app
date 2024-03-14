@@ -1,5 +1,7 @@
 # my-edgedb-app
 
+refer to [https://www.edgedb.com/docs/clients/js/index#edgedb-js-intro](https://www.edgedb.com/docs/clients/js/index#edgedb-js-intro)
+
 To install dependencies:
 
 ```bash
